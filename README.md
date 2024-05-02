@@ -25,13 +25,13 @@ Iniciar los proyectis
 ### Behave
 
 ```shell
- 
+ python -mbehave
 ```
 ### POSTMAN
 Importar la coleccion 
 
 ```shell
- CucumberTestSuite
+ ReqRes Api.postman_collection.json
 ```
 
 ##  Performance
